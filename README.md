@@ -3,7 +3,7 @@
 - For this requirement, in the instruction there are no variables, it consists only of integers and operations. It is guaranteed that all operations will be unsigned.
 ## Example
 Instruction can be given 2 10 mul 5 div 7 6 under add.   
-The result must either according to the following algorithm:
+The result must either according to the following algorithm:  
 • add 2 on the stack;  
 • add 10 on the stack;  
 • the mul operation is identified, the multiplication between 2 and 10 is applied, 20 is obtained, 2 and 10 are eliminated
